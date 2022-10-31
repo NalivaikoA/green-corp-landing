@@ -388,7 +388,7 @@ footer {
   }
 .features__feedback-right {
   display: flex;
-  align-items: center;
+  /*align-items: center;*/ /*Убрал, чтобы выровнять карточки по высоте*/
 }
 .features__box {
   padding: 30px 40px 25px 40px;
